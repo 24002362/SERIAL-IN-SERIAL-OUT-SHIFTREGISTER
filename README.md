@@ -1,6 +1,7 @@
 ### NAME: HARIPRIYA M
 ### REGISTER NO: 24002362
-# EXPERIMENT 10 : SERIAL IN SERIAL OUT SHIFTREGISTER
+### DATE: 21.11.2024
+# EXPERIMENT 6 : SERIAL IN SERIAL OUT SHIFTREGISTER
 
 # AIM:
 
@@ -40,15 +41,20 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
   
 # PROGRAM
 
-![Screenshot 2024-12-12 143940](https://github.com/user-attachments/assets/dea701a2-cf1d-4ec7-9d84-2689cfd33fea)
+![Screenshot 2024-12-22 114654](https://github.com/user-attachments/assets/6dd14cdd-bf7c-400b-ace9-b10ee9b32558)
 
 
 
 
 # RTL LOGIC FOR SISO Shift Register
-![Screenshot 2024-12-12 144004](https://github.com/user-attachments/assets/420f6ca6-a43e-4abb-bb2d-c97588b67a5a)
+
+![Screenshot 2024-12-22 114718](https://github.com/user-attachments/assets/1f6352f1-b2d2-4e82-86f3-f19c96d570cb)
 
 
 # TIMING DIGRAMS FOR SISO Shift Register
 
+![Screenshot 2024-12-22 130807](https://github.com/user-attachments/assets/aeda62f5-3cd3-43e3-a105-6c9b73e5801d)
+
+
 # RESULT
+SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
